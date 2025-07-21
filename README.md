@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi visitor <img src="https://count.getloli.com/get/@dimitrisgjergji?theme=sketch-1&padding=5&offset=0&align=bottom&scale=0.3"  alt="visitor badge"/>, I'm Dimitris Gjergji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi visitor <img src="https://count.getloli.com/get/@dimitrisgjergji-v2?theme=sketch-1&padding=5&offset=0&align=bottom&scale=0.3"  alt="visitor badge"/>, I'm Dimitris Gjergji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
 <hr style="height:1px;border:none;background-color:#ccc;"/>
